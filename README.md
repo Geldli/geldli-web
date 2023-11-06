@@ -1,2 +1,4 @@
-# geldli-web
-The Geldli finances manager web application
+# Geldli
+
+Uma plataforma para cuidar de todas as suas finanças
+
